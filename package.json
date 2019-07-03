@@ -1,0 +1,28 @@
+{
+  "name": "mail-goggles-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for an email tracker built with VueJS.",
+  "author": "Mohamed Shadab",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt-buefy": "^0.3.2",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^2.6.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "vue-jest": "^3.0.3",
+    "nodemon": "^1.18.9"
+  }
+}
