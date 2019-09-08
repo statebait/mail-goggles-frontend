@@ -77,9 +77,8 @@ dist
 # Serverless directories
 .serverless
 
-# IDE / Editor
-.idea
-.editorconfig
+# VSCode config
+.vscode
 
 # Service worker
 sw.*
