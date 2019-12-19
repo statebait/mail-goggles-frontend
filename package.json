@@ -4,11 +4,11 @@
   "description": "Frontend for an email tracker built with VueJS.",
   "author": {
     "name": "Mohamed Shadab",
-    "url": "https://shadxx7.github.io"
+    "url": "https://statebait.github.io"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shadxx7/mail-goggles-frontend"
+    "url": "https://github.com/statebait/mail-goggles-frontend"
   },
   "private": true,
   "scripts": {
@@ -29,7 +29,6 @@
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^24.1.0",
     "jest": "^24.1.0",
-    "nodemon": "^1.18.9",
     "vue-jest": "^3.0.3"
   }
 }
